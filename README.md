@@ -1,4 +1,4 @@
-# product-success-prediction
+# Product success prediction
 
 ## Project Overview
 
