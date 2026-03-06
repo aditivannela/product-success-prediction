@@ -35,6 +35,7 @@ A binary target variable was created:
 - is_successful = 1 if
 - average rating ≥ 4
 - review_count > 100
+
 Otherwise:
 - is_successful = 0
 
