@@ -31,8 +31,9 @@ The following features were created for each product:
 - rating_variability – standard deviation of ratings
 - avg_sentiment – average sentiment score from reviews
 
-A binary target variable was created
-is_successful = 1 if:
+A binary target variable was created:
+
+is_successful = 1 if
 - average rating ≥ 4
 - review_count > 100
 
