@@ -32,7 +32,7 @@ The following features were created for each product:
 - avg_sentiment – average sentiment score from reviews
 
 A binary target variable was created:
-- is_successful = 1 if
+is_successful = 1 if:
 - average rating ≥ 4
 - review_count > 100
 
